@@ -60,7 +60,7 @@ First, let's get the server running.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/DivyaMeghanaMamidipalli/Feedback-Pro.git
+git clone https://github.com/DivyaMeghana7686/Feedback-Pro.git
 cd Feedback-Pro
 
 # 2. Navigate to the backend directory
